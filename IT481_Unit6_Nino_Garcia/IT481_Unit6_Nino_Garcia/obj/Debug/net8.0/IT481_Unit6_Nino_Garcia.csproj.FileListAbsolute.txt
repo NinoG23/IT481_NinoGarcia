@@ -1,0 +1,14 @@
+C:\Users\sefer\source\repos\IT481_Unit6_Nino_Garcia\IT481_Unit6_Nino_Garcia\bin\Debug\net8.0\IT481_Unit6_Nino_Garcia.exe
+C:\Users\sefer\source\repos\IT481_Unit6_Nino_Garcia\IT481_Unit6_Nino_Garcia\bin\Debug\net8.0\IT481_Unit6_Nino_Garcia.deps.json
+C:\Users\sefer\source\repos\IT481_Unit6_Nino_Garcia\IT481_Unit6_Nino_Garcia\bin\Debug\net8.0\IT481_Unit6_Nino_Garcia.runtimeconfig.json
+C:\Users\sefer\source\repos\IT481_Unit6_Nino_Garcia\IT481_Unit6_Nino_Garcia\bin\Debug\net8.0\IT481_Unit6_Nino_Garcia.dll
+C:\Users\sefer\source\repos\IT481_Unit6_Nino_Garcia\IT481_Unit6_Nino_Garcia\bin\Debug\net8.0\IT481_Unit6_Nino_Garcia.pdb
+C:\Users\sefer\source\repos\IT481_Unit6_Nino_Garcia\IT481_Unit6_Nino_Garcia\obj\Debug\net8.0\IT481_Unit6_Nino_Garcia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sefer\source\repos\IT481_Unit6_Nino_Garcia\IT481_Unit6_Nino_Garcia\obj\Debug\net8.0\IT481_Unit6_Nino_Garcia.AssemblyInfoInputs.cache
+C:\Users\sefer\source\repos\IT481_Unit6_Nino_Garcia\IT481_Unit6_Nino_Garcia\obj\Debug\net8.0\IT481_Unit6_Nino_Garcia.AssemblyInfo.cs
+C:\Users\sefer\source\repos\IT481_Unit6_Nino_Garcia\IT481_Unit6_Nino_Garcia\obj\Debug\net8.0\IT481_Unit6_Nino_Garcia.csproj.CoreCompileInputs.cache
+C:\Users\sefer\source\repos\IT481_Unit6_Nino_Garcia\IT481_Unit6_Nino_Garcia\obj\Debug\net8.0\IT481_Unit6_Nino_Garcia.dll
+C:\Users\sefer\source\repos\IT481_Unit6_Nino_Garcia\IT481_Unit6_Nino_Garcia\obj\Debug\net8.0\refint\IT481_Unit6_Nino_Garcia.dll
+C:\Users\sefer\source\repos\IT481_Unit6_Nino_Garcia\IT481_Unit6_Nino_Garcia\obj\Debug\net8.0\IT481_Unit6_Nino_Garcia.pdb
+C:\Users\sefer\source\repos\IT481_Unit6_Nino_Garcia\IT481_Unit6_Nino_Garcia\obj\Debug\net8.0\IT481_Unit6_Nino_Garcia.genruntimeconfig.cache
+C:\Users\sefer\source\repos\IT481_Unit6_Nino_Garcia\IT481_Unit6_Nino_Garcia\obj\Debug\net8.0\ref\IT481_Unit6_Nino_Garcia.dll
