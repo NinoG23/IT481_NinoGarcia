@@ -1,0 +1,10 @@
+C:\Users\sefer\source\repos\IT481_Unit2_Assign_Nino\IT481_Unit2_Assign_Nino\bin\Debug\IT481_Unit2_Assign_Nino.exe.config
+C:\Users\sefer\source\repos\IT481_Unit2_Assign_Nino\IT481_Unit2_Assign_Nino\bin\Debug\IT481_Unit2_Assign_Nino.exe
+C:\Users\sefer\source\repos\IT481_Unit2_Assign_Nino\IT481_Unit2_Assign_Nino\bin\Debug\IT481_Unit2_Assign_Nino.pdb
+C:\Users\sefer\source\repos\IT481_Unit2_Assign_Nino\IT481_Unit2_Assign_Nino\obj\Debug\IT481_Unit2_Assign_Nino.csproj.AssemblyReference.cache
+C:\Users\sefer\source\repos\IT481_Unit2_Assign_Nino\IT481_Unit2_Assign_Nino\obj\Debug\IT481_Unit2_Assign_Nino.Form1.resources
+C:\Users\sefer\source\repos\IT481_Unit2_Assign_Nino\IT481_Unit2_Assign_Nino\obj\Debug\IT481_Unit2_Assign_Nino.Properties.Resources.resources
+C:\Users\sefer\source\repos\IT481_Unit2_Assign_Nino\IT481_Unit2_Assign_Nino\obj\Debug\IT481_Unit2_Assign_Nino.csproj.GenerateResource.cache
+C:\Users\sefer\source\repos\IT481_Unit2_Assign_Nino\IT481_Unit2_Assign_Nino\obj\Debug\IT481_Unit2_Assign_Nino.csproj.CoreCompileInputs.cache
+C:\Users\sefer\source\repos\IT481_Unit2_Assign_Nino\IT481_Unit2_Assign_Nino\obj\Debug\IT481_Unit2_Assign_Nino.exe
+C:\Users\sefer\source\repos\IT481_Unit2_Assign_Nino\IT481_Unit2_Assign_Nino\obj\Debug\IT481_Unit2_Assign_Nino.pdb
